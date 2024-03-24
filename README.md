@@ -25,3 +25,5 @@ To View List off all files including hidden: ls -a
  To add files: git add <filename>
  To add multiple files: git add .
  To Commit files: git commit -m "Commit Message"
+
+ To Push Changes to GitHub: git push origin main
