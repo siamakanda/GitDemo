@@ -21,7 +21,7 @@ To View List of Files: ls
 To View List off all files including hidden: ls -a
 
 
- ### 2. Modifications
+ ### 3. Modifications
  To add files: git add <filename>
  To add multiple files: git add .
  To Commit files: git commit -m "Commit Message"
