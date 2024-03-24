@@ -3,10 +3,6 @@ This is my Git Learning Process (Ignore)
 
 ## Here I'm going to put all of my Git Commands while learning.
 
-
-####################################################################
-
-
 ### 1. Check Git Version and Configure it to Work Properly
  To Check Git Version: git --version <br/>
 
