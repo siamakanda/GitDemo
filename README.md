@@ -21,7 +21,9 @@ To View List off all files including hidden: ls -a
  To add multiple files: git add .
  To Commit files: git commit -m "Commit Message"
 
+#### Sync Techninc
  To Push Changes to GitHub: git push origin main
+ To Pull Changes From Github: git pull origin main
 
 ### 4. Git Init
   To start Git for a new folder: git init
