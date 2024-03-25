@@ -38,15 +38,15 @@ To Delete Branch: git branch -d <-Branch_Name-> <br/>
 a. To Compare Branches: git diff <-Branch_Name-> <br/>
 b. To Merge 2 Branches: git merge <-Branch_Name-> <br/>
 
-Or Simply Create a Pull Request.
+Or Simply Create a Pull Request. <br/>
 
 ## 7. Undo Changes
-Case 1. To Undo Staged/Added Changes,
-  For Single File: git reset <-File_Name->
-  For All Files: git reset
+Case 1. To Undo Staged/Added Changes, <br/>
+  For Single File: git reset <-File_Name-> <br/>
+  For All Files: git reset <br/>
 
-Case 2. To Undo Commited Changes for Last Commit: git reset HEAD~1
+Case 2. To Undo Commited Changes for Last Commit: git reset HEAD~1 <br/>
 
-Case 3. 
-  To Undo Commited Changes for Many Commits: git reset <-commit-hash->
-  To Undo Commited Changes for Many Commits+VScode: git reset --hard <-commit-hash->
+Case 3. <br/>
+  To Undo Commited Changes for Many Commits: git reset <-commit-hash-> <br/>
+  To Undo Commited Changes for Many Commits+VScode: git reset --hard <-commit-hash-> <br/>
